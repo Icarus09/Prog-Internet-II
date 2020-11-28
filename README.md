@@ -8,7 +8,7 @@ Uma api sobre os diversos conteudos que contem no mundo da Saga Star Wars.
 
 **Site:** *https://swapi.dev/*
 
-#### Demonstação de Uso
+#### Demonstração de Uso
 
 **Metodo Get**
 
@@ -24,7 +24,7 @@ Uma Api Fake para testes
 
 **Site:** *http://dummy.restapiexample.com/*
 
-#### Demonstação de Uso
+#### Demonstração de Uso
 
 **Metodo Post** 
 
